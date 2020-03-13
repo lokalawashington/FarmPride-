@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="my_dashboard">MY DASHBOARD</string>
+    <string name="_12_items">12 items</string>
+    <string name="fruits_vegetables">price</string>
+    <string name="_9_items">12-items</string>
+    <string name="todo">TODO</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="confirm_your_password">Confirm your Password</string>
+    <string name="login">Login</string>
+    <string name="no_of_incorrect_attempts">No of incorrect attempts</string>
+    <string name="sign_up_here">Sign_Up Here</string>
+    <string name="enter_your_username">Enter your UserName</string>
+    <string name="product_to_sell">location</string>
+    <string name="price_of_you_product">access</string>
+    <string name="choose_picture">Choose picture</string>
+    <string name="upload_picture">Upload picture</string>
+    <string name="next">Next</string>
+    <string name="welcome_to_farmpride">WELCOME TO TAKASAFI</string>
+</resources>
